@@ -1,3 +1,6 @@
+In the attack lab I learned how to use buffer overflows to access areas of memory not intended by the program.
+
+
 This file contains materials for one instance of the attacklab.
 
 Files:
@@ -23,6 +26,5 @@ can compile (use flag -Og) and disassemble it to look for gadgets.
 
      hex2raw
 
-Utility program to generate byte sequences.  See documentation in lab
-handout.
+Utility program to generate byte sequences. 
 
